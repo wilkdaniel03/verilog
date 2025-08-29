@@ -1,15 +1,12 @@
-# vsim -c work.onebit_comp 
-# Start time: 20:42:33 on Aug 29,2025
+# vsim -c work.onebit_comp_testbench -do "run;quit" 
+# Start time: 01:45:16 on Aug 30,2025
+# Loading work.onebit_comp_testbench
 # Loading work.onebit_comp
-# HiZ HiZ StX
-# ** UI-Msg: (vish-4014) No objects found matching 'y'.
-# 
-# StX
-# St1
-# St0
-# Invalid time value: b 0
-# St0
-# St1 St0
-# St1
-# End time: 20:43:40 on Aug 29,2025, Elapsed time: 0:01:07
+# run
+# ** Note: $stop    : comparator/onebit_comp_testbench.v(36)
+#    Time: 0 fs  Iteration: 0  Instance: /onebit_comp_testbench
+# Break in Module onebit_comp_testbench at comparator/onebit_comp_testbench.v line 36
+# Stopped at comparator/onebit_comp_testbench.v line 36
+# quit
+# End time: 01:45:16 on Aug 30,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0

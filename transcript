@@ -1,1 +1,15 @@
-# Loading project verilog
+# vsim -c work.onebit_comp 
+# Start time: 20:42:33 on Aug 29,2025
+# Loading work.onebit_comp
+# HiZ HiZ StX
+# ** UI-Msg: (vish-4014) No objects found matching 'y'.
+# 
+# StX
+# St1
+# St0
+# Invalid time value: b 0
+# St0
+# St1 St0
+# St1
+# End time: 20:43:40 on Aug 29,2025, Elapsed time: 0:01:07
+# Errors: 0, Warnings: 0
